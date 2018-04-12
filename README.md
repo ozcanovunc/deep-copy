@@ -3,3 +3,12 @@
 - Performs deep copy on objects
 - Simple & efficient
 - Works both in the browser and with Node
+
+# Usage
+
+```
+const copy = require("@smartface/deep-copy");
+
+var oldObject = {};
+var newObject = copy(oldObject);
+```
