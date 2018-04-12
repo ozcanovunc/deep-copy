@@ -1,0 +1,19 @@
+{
+  "name": "@smartface/deep-copy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/smartface/deep-copy.git"
+  },
+  "author": "Smartface",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/smartface/deep-copy/issues"
+  },
+  "homepage": "https://github.com/smartface/deep-copy#readme"
+}
