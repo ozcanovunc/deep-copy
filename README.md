@@ -4,6 +4,12 @@
 - Simple & efficient
 - Works both in the browser and with Node
 
+# Installation
+
+```
+npm i -S @smartface/deep-copy
+```
+
 # Usage
 
 ```
